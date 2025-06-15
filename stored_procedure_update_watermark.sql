@@ -3,7 +3,7 @@ CREATE PROCEDURE UpdateWatermarkTable
 AS
 BEGIN
 -- Start the transaction
-    BEGIN TRANSATION;
+    BEGIN TRANSACTION;
 
     -- Update the incemental column in table
 UPDATE water_table
