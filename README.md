@@ -1,11 +1,5 @@
 # Car-Sales-Data-Engineering-Project
 
-Here’s a **detailed, professional, and attractive README** template for your project based on the YouTube transcript and the fact that you’ve completed and uploaded it to GitHub.
-
----
-
-# 🚀 Azure Data Engineering Bootcamp Project: End-to-End Pipeline with Medallion Architecture
-
 Welcome to the **Azure Data Engineering Bootcamp Project**, where I have built a **real-world, production-ready, end-to-end data pipeline** using the latest Azure technologies.
 
 This project focuses on **incremental data loading, Medallion architecture, star schema modeling, and data governance** using Azure Data Factory, Azure Data Lake, Azure SQL Database, Databricks, and Unity Catalog.
