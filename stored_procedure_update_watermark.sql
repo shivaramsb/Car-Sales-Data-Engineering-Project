@@ -8,7 +8,7 @@ BEGIN
     -- Update the incemental column in table
 UPDATE water_table
 SET last_load = @lastload
-
+COMMIT TRANSACTION;
 END;
 
 
