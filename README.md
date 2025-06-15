@@ -18,7 +18,6 @@ This project focuses on **incremental data loading, Medallion architecture, star
 * [Project Highlights](#project-highlights)
 * [Learnings](#learnings)
 * [Future Enhancements](#future-enhancements)
-* [Project Demo](#project-demo)
 * [Contact](#contact)
 
 ---
@@ -170,12 +169,6 @@ It demonstrates:
 * Explore **Streaming Data** pipelines using Azure Event Hubs.
 * Build **Advanced Power BI Dashboards**.
 * Automate **CI/CD using Azure DevOps**.
-
----
-
-## 🎬 Project Demo
-
-*Coming Soon: Detailed step-by-step video walkthrough of the project.*
 
 ---
 
