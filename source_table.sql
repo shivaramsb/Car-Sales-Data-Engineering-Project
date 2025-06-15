@@ -10,7 +10,8 @@ CREATE TABLE source_car_data
  Month INT,
  Year INT,
  BranchName Varchar(2000),
- DealerName Varchar(2000)
+ DealerName Varchar(2000),
+ Product_Name Varchar(2000)
 )
 
 
