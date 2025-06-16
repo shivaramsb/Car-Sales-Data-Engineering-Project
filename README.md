@@ -171,13 +171,3 @@ It demonstrates:
 * Automate **CI/CD using Azure DevOps**.
 
 ---
-
-## 📞 Contact
-
-If you have any questions, suggestions, or want to collaborate, feel free to connect:
-
-* **Name:** Shivaram Babar
-* **GitHub:** \[Your GitHub Profile Link]
-* **LinkedIn:** \[Your LinkedIn Profile Link]
-
----
