@@ -1,6 +1,6 @@
 # Car-Sales-Data-Engineering-Project
 
-Welcome to the **Azure Data Engineering Bootcamp Project**, where I have built a **real-world, production-ready, end-to-end data pipeline** using the latest Azure technologies.
+Welcome to the **Car-Sales-Data-Engineering-Project**, where I have built a **real-world, production-ready, end-to-end data pipeline** using the latest Azure technologies.
 
 This project focuses on **incremental data loading, Medallion architecture, star schema modeling, and data governance** using Azure Data Factory, Azure Data Lake, Azure SQL Database, Databricks, and Unity Catalog.
 
@@ -16,9 +16,6 @@ This project focuses on **incremental data loading, Medallion architecture, star
 * [Tools and Services Used](#tools-and-services-used)
 * [Setup and Execution](#setup-and-execution)
 * [Project Highlights](#project-highlights)
-* [Learnings](#learnings)
-* [Future Enhancements](#future-enhancements)
-* [Contact](#contact)
 
 ---
 
@@ -69,6 +66,14 @@ It demonstrates:
         ▼
 [Power BI] (Optional) ---> Visualizations
 ```
+
+---
+
+## 🔄 Databricks Workflow
+
+![alt text](image-1.png)
+
+---
 
 ---
 
@@ -139,37 +144,5 @@ It demonstrates:
 6. **Optional: Power BI Integration**
 
    * Connect to Databricks Gold Layer for dashboards.
-
----
-
-## 🚀 Project Highlights
-
-* 🔹 **Automated Incremental Data Pipeline**
-* 🔹 **CDC-based Data Movement**
-* 🔹 **Efficient Use of Delta and Parquet Formats**
-* 🔹 **Dynamic and Parameterized Pipelines**
-* 🔹 **Robust Data Quality and Governance**
-* 🔹 **Production-Ready Design**
-
----
-
-## 🎯 Learnings
-
-* Real-world Medallion Architecture implementation
-* Incremental loading using Lookup, CDC, and Watermarking
-* Star Schema and Dimensional Modeling with Azure Databricks
-* Data Governance using Unity Catalog
-* Parameterization and scalability in Azure Data Factory
-* Handling Slowly Changing Dimensions (SCD Type 1)
-
----
-
-## 🌱 Future Enhancements
-
-* Integrate **Azure Synapse Analytics** for more advanced processing.
-* Implement **Data Quality Checks** using Azure Data Factory pipelines.
-* Explore **Streaming Data** pipelines using Azure Event Hubs.
-* Build **Advanced Power BI Dashboards**.
-* Automate **CI/CD using Azure DevOps**.
 
 ---
