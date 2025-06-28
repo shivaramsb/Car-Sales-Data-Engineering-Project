@@ -49,6 +49,8 @@ It demonstrates:
 
 ## 🏗️ Project Architecture
 
+![alt text](image.png)
+
 ```plaintext
 [GitHub Data Source] 
         |
