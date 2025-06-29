@@ -1,4 +1,4 @@
-# Car-Sales-Data-Engineering-Project
+# Car Sales Data Engineering Project
 
 Welcome to the **Car-Sales-Data-Engineering-Project**, where I have built a **real-world, production-ready, end-to-end data pipeline** using the latest Azure technologies.
 
